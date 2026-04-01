@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/ca8f8722-934f-43a8-8e0e-65a09
 3. Run the app:
    `npm run dev`
 # NP-Customer-Inventory-Main
+# NP-Customer-Inventory-Main
