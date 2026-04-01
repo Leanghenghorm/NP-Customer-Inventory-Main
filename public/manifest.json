@@ -1,0 +1,21 @@
+{
+  "short_name": "IAS Management",
+  "name": "Identity & Application Security Management",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/security/512/512",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/Leanghenghorm/NP-LOGO/refs/heads/main/NP-ID%26APP%20Team1.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#000000",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "description": "Identity & Application Security Management"
+}

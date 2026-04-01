@@ -1,0 +1,5 @@
+{
+  "name": "Identity & Application Security",
+  "description": "Customer Security Infrastructure Management System for tracking PAM, MFA, and network flows.",
+  "requestFramePermissions": []
+}
